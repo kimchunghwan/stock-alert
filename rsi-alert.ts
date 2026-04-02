@@ -9,7 +9,7 @@ const SIGNAL_PERIOD = 9;
 const MA_SHORT = 20;
 const MA_MID = 50;
 const MA_LONG = 200;
-const RSI_THRESHOLD = 40; // Alert when RSI(14) ≤ 35 (oversold)
+const RSI_THRESHOLD = 30; // Alert when RSI(14) ≤ 35 (oversold)
 
 const client = new WebClient(process.env.SLACK_BOT_TOKEN, {
   logLevel: LogLevel.ERROR,
