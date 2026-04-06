@@ -1,4 +1,4 @@
-# Playwright Result to Slack
+# Playwright Result to Slack test
 
 [![.github/workflows/test.yml](https://github.com/kimchunghwan/playwright_test/actions/workflows/test.yml/badge.svg)](https://github.com/kimchunghwan/playwright_test/actions/workflows/test.yml)
 
